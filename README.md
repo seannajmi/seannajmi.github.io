@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Sean Najmi
+# PhD Student in Chemical Engineering
 
-You can use the [editor on GitHub](https://github.com/seannajmi/seannajmi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a current PhD Student in the School of Chemical and Biomolecular Engineering at the Georgia Institue of Technology. My research is in the field of catalysis, with a specific focus on hetergenous catalysts for biomass conversion. 
 
 ### Markdown
 
